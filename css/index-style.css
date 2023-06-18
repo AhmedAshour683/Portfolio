@@ -244,7 +244,7 @@ header h1
 {
     width: 50% !important;
     padding-left: 40px;  
-    margin-top: 0px;
+    margin-top: -260px;
   
 }
 
@@ -743,4 +743,6 @@ body:has(.footer-all:target) .underline7
 
 .navbar-toggler-icon
 {
-	background-color: rgb(255,255,255);
+    background-color: white;
+}
+
