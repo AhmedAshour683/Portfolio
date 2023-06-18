@@ -741,3 +741,6 @@ body:has(.footer-all:target) .underline7
    transform: translateX(50px);
 }
 
+.navbar-toggler-icon
+{
+	background-color: white;
